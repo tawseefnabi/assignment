@@ -38,7 +38,7 @@ for analysis we used `@xenova/transformers` for sentiment analysis from happyfac
 NOTE: no db or state management has been used. data is stoed in array for testing ourpose onlu. we can integrate different db in backend to save data
 
 
-things which needs improvement:
+## things which needs improvement:
 
  - css framework like tailwind need to added for better UI
- - 
+ -  using redux or saga ro store data in  ui 
