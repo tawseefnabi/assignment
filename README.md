@@ -5,8 +5,12 @@ https://huggingface.co/docs/transformers.js/pipelines#tasks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
  clone this project after that 
+ there will be two folders
+ client and server folder
+
  start backend
  ```sh
+ cd server
   npm i 
   node server
  ```
